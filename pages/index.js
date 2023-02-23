@@ -32,5 +32,3 @@ export function getStaticProps() {
 }
 
 export default HomePage;
-
-// remote origin already exist?
